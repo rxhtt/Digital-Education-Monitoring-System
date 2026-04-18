@@ -1,0 +1,17 @@
+# XAMPP Installers & Executables
+xampp-installer.run
+reset_admin.php
+fix_login.php
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.log
+
+# Project Specific
+/opt/lampp/*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea/
+.vscode/
