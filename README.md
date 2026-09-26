@@ -66,5 +66,5 @@ To populate the system with professional sample data (1500+ records), navigate t
 ## License
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
-## Credits and Acknowledgments
-This project was implemented as an academic semester project for **Government First Grade College** by **Anisha K** under the implementation support of **Rohit Bagewadi**.
+## This was an Final Year Project created for a student by Rohit Bagewadi.
+
